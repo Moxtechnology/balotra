@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; District Preview Template</title>
+	<atom:link href="https://s3c4ca4238a0b923820dcc509a6f75849b.s3waas.gov.in/hi/category/uncategorized-hi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://s3c4ca4238a0b923820dcc509a6f75849b.s3waas.gov.in</link>
+	<description>एक सेवा के रूप में सुरक्षित, मापनीय और सुगम वेबसाइट</description>
+	<lastBuildDate>Mon, 01 Jan 2018 12:00:58 +0000</lastBuildDate>
+	<language>hi-IN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<item>
+		<title>Dummy News 1</title>
+		<link>https://s3c4ca4238a0b923820dcc509a6f75849b.s3waas.gov.in/hi/dummy-news-1-2/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 01 Jan 2018 12:00:53 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[प्रेस विज्ञप्ति]]></category>
+		<guid isPermaLink="false">https://s3c4ca4238a0b923820dcc509a6f75849b.s3waas.gov.in/?p=18902</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Dummy News 5</title>
+		<link>https://s3c4ca4238a0b923820dcc509a6f75849b.s3waas.gov.in/hi/dummy-news-5-2/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 01 Jan 2018 12:00:37 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[प्रेस विज्ञप्ति]]></category>
+		<guid isPermaLink="false">https://s3c4ca4238a0b923820dcc509a6f75849b.s3waas.gov.in/?p=18898</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Dummy News 2</title>
+		<link>https://s3c4ca4238a0b923820dcc509a6f75849b.s3waas.gov.in/hi/dummy-news-2-2/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 01 Jan 2018 12:00:32 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[प्रेस विज्ञप्ति]]></category>
+		<guid isPermaLink="false">https://s3c4ca4238a0b923820dcc509a6f75849b.s3waas.gov.in/?p=18897</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Dummy News 3</title>
+		<link>https://s3c4ca4238a0b923820dcc509a6f75849b.s3waas.gov.in/hi/dummy-news-3-2/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 01 Jan 2018 12:00:07 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[प्रेस विज्ञप्ति]]></category>
+		<guid isPermaLink="false">https://s3c4ca4238a0b923820dcc509a6f75849b.s3waas.gov.in/?p=18895</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Dummy News 4</title>
+		<link>https://s3c4ca4238a0b923820dcc509a6f75849b.s3waas.gov.in/hi/dummy-news-4-2/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 01 Jan 2018 11:59:56 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[प्रेस विज्ञप्ति]]></category>
+		<guid isPermaLink="false">https://s3c4ca4238a0b923820dcc509a6f75849b.s3waas.gov.in/?p=18893</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

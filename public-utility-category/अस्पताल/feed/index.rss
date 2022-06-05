@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>अस्पताल &#8211; District Preview Template</title>
+	<atom:link href="https://s3c4ca4238a0b923820dcc509a6f75849b.s3waas.gov.in/hi/public-utility-category/%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A4%BE%E0%A4%B2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://s3c4ca4238a0b923820dcc509a6f75849b.s3waas.gov.in</link>
+	<description>एक सेवा के रूप में सुरक्षित, मापनीय और सुगम वेबसाइट</description>
+	<lastBuildDate>Mon, 27 Sep 2021 06:35:14 +0000</lastBuildDate>
+	<language>hi-IN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+</channel>
+</rss>
